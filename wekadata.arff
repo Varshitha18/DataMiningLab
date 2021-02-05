@@ -1,0 +1,15 @@
+% my data 
+
+@relation  faculty
+
+@attribute name string
+@attribute dept {cse,ece,it,eee}
+@attribute age numeric
+@attribute phone numeric
+@attribute salary numeric
+
+@data
+meghana, cse, 32, 7337246404, 35000
+kavya, cse, 29, 8096754321, 38000
+kirthana, ece, 27, 8753246896, 36000
+vidya, it, 34, 9742245678, 37000
